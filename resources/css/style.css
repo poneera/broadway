@@ -1,0 +1,76 @@
+
+a {
+  color:inherit;
+ }
+/* no underline  text-decoration: none; */ 
+
+.home-bar {
+  /* background image flatiron */
+     background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  text-align:center;
+}
+
+.title {
+  font-family:Helvetica;
+  font-size:70px;
+  font-weight:bold;
+  color:white;
+  margin: 50px;
+}
+
+.nav {
+  font-family:Helvetica;
+  font-size:18px;
+  color:white;
+ 
+}
+.nav-item {
+  margin-top:5px;
+}
+.process {
+  text-align:center;
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  margin: 20px;
+}
+
+.Ptitle {
+  font-family:Helvetica;
+  font-size:23px;
+  font-weight:bold;
+  text-align:center;
+  margin-top:20px;
+  
+}
+.process2 {
+  text-align:center;
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+}
+
+p {
+  font-family:Helvetica;
+  font-size:14px;
+  text-align:center;
+
+}
+
+.design {
+  font-family:Helvetica;
+  font-size:23px;
+  font-weight:bold;
+  color:white;
+  text-align:center;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+.copyright-bar {
+  font-family:Helvetica,
+  font-size:11px
+  text align:left;
+  color:white;
+  background-color:dimgray;
+}
+
