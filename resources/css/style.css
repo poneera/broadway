@@ -6,7 +6,7 @@ a {
 
 .home-bar {
   /* background image flatiron */
-     background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+     background-image: url("broadway/resources/images/the-flatiron-building.png");
   text-align:center;
 }
 
